@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yehya--elsaeed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yehya-elsaeed)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -17,7 +16,7 @@
 - 🚀 **Senior Java Backend Engineer** specialized in designing high-performance, fault-tolerant enterprise systems and microservices.
 - 💼 Deep experience in **Spring Boot**, **Hibernate/JPA**, **Enterprise Distributed Architectures**, and **Database Performance Tuning (Oracle, MySQL, PostgreSQL)**.
 - ⚡ Passionate about clean architecture, Domain-Driven Design (DDD), SOLID principles, high concurrency, and low latency backend services.
-- 🛠️ Currently building and scaling complex mission-critical business automation & workflow management systems.
+- 🛠️ Building and scaling complex mission-critical business automation & workflow management systems.
 
 ---
 
@@ -41,7 +40,6 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-CC292B?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### **Messaging, DevOps & Tools**
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,18 +67,11 @@
 
 ### 💡 Core Engineering Capabilities
 
-```java
-### 💡 Core Engineering Capabilities
-
-| Domain | Key Competencies |
-| :--- | :--- |
-| **Java & Core** | Java 8/11/17/21, Concurrency, JVM Tuning, SOLID & Clean Architecture |
-| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Microservices |
-| **Databases** | Oracle DB, PL/SQL, MySQL, PostgreSQL, Query Optimization |
-| **Data Access** | Hibernate ORM, Entity Lifecycle, Criteria API, Transaction Management |
-| **DevOps & Testing** | Docker, Maven, Git, JUnit 5, Mockito, Swagger / OpenAPI |
-
-```
+- ☕ **High-Concurrency Java**: Multithreading, memory management, and JVM performance tuning.
+- 🍃 **Spring Boot & Microservices**: REST APIs, Spring Security, Spring Data, and event-driven architectures.
+- 🗄️ **Database Architecture**: Complex SQL, Oracle PL/SQL, schema design, and query optimization.
+- ⚡ **ORM & Performance**: Hibernate lifecycle, lazy/eager loading tuning, and transaction management.
+- 🐳 **Enterprise Readiness**: Containerization with Docker, CI/CD pipelines, and automated testing (JUnit/Mockito).
 
 ---
 
