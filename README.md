@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yehya--elsaeed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yehya-elsaeed)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -16,7 +17,7 @@
 - 🚀 **Senior Java Backend Engineer** specialized in designing high-performance, fault-tolerant enterprise systems and microservices.
 - 💼 Deep experience in **Spring Boot**, **Hibernate/JPA**, **Enterprise Distributed Architectures**, and **Database Performance Tuning (Oracle, MySQL, PostgreSQL)**.
 - ⚡ Passionate about clean architecture, Domain-Driven Design (DDD), SOLID principles, high concurrency, and low latency backend services.
-- 🛠️ Building and scaling complex mission-critical business automation & workflow management systems.
+- 🛠️ Currently building and scaling complex mission-critical business automation & workflow management systems.
 
 ---
 
@@ -40,6 +41,7 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-CC292B?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### **Messaging, DevOps & Tools**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,13 +67,31 @@
 
 ---
 
-```markdown
 ### 💡 Core Engineering Capabilities
-| Area | Expertise & Focus |
-| :--- | :--- |
-| **Backend & Core** | Java (8 / 11 / 17 / 21), Concurrency, Multithreading, Clean Architecture |
-| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Microservices |
-| **Data Layer & ORM** | Hibernate, JPA Entity Lifecycle, Criteria API, QueryDSL |
-| **Databases** | Oracle DB, PL/SQL, MySQL, PostgreSQL, Query Optimization |
-| **Caching & Messaging**| Redis, Distributed Caching, Event-Driven Architecture |
-| **DevOps & Quality** | Docker, Maven, Git, JUnit 5, Mockito, CI/CD Pipelines |
+
+```java
+public class SeniorJavaEngineer {
+    private final String name = "Yehya Saeed";
+    private final String role = "Senior Java Developer";
+    private final String[] coreSkills = {
+        "Java (Core, Concurrency, JVM Tuning)",
+        "Spring Framework (Boot, Data JPA, Security, Cloud)",
+        "Database Architecture (Oracle, MySQL, SQL Optimization)",
+        "ORM & Data Access (Hibernate, Entity Lifecycle, QueryDSL)",
+        "RESTful API & Microservices Design",
+        "CI/CD, Docker & Containerized Deployments"
+    };
+
+    public boolean buildHighPerformanceSystems() {
+        return true;
+    }
+}
+```
+
+---
+
+<div align="center">
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer)
+
+</div>
