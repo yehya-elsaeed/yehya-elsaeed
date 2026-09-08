@@ -70,22 +70,16 @@
 ### 💡 Core Engineering Capabilities
 
 ```java
-public class SeniorJavaEngineer {
-    private final String name = "Yehya Saeed";
-    private final String role = "Senior Java Developer";
-    private final String[] coreSkills = {
-        "Java (Core, Concurrency, JVM Tuning)",
-        "Spring Framework (Boot, Data JPA, Security, Cloud)",
-        "Database Architecture (Oracle, MySQL, SQL Optimization)",
-        "ORM & Data Access (Hibernate, Entity Lifecycle, QueryDSL)",
-        "RESTful API & Microservices Design",
-        "CI/CD, Docker & Containerized Deployments"
-    };
+### 💡 Core Engineering Capabilities
 
-    public boolean buildHighPerformanceSystems() {
-        return true;
-    }
-}
+| Domain | Key Competencies |
+| :--- | :--- |
+| **Java & Core** | Java 8/11/17/21, Concurrency, JVM Tuning, SOLID & Clean Architecture |
+| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Microservices |
+| **Databases** | Oracle DB, PL/SQL, MySQL, PostgreSQL, Query Optimization |
+| **Data Access** | Hibernate ORM, Entity Lifecycle, Criteria API, Transaction Management |
+| **DevOps & Testing** | Docker, Maven, Git, JUnit 5, Mockito, Swagger / OpenAPI |
+
 ```
 
 ---
